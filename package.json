@@ -31,7 +31,6 @@
     "tslint": "5.17.0",
     "typescript": "3.5.1"
   },
-  "description": "seeder is a cli and library to publish fake audit log events to WorkOS.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maxchehab/template-npm.git"
